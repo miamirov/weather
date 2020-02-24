@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="weather_icon">weather_icon</string>
+    <string name="temperature">21°</string>
+    <string name="wind_flow"> Wind flow</string>
+    <string name="humidity"> Humidity</string>
+    <string name="place"> London</string>
+</resources>
