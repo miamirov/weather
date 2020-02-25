@@ -1,4 +1,4 @@
-package com.example.weather.data
+package com.example.weather.data.forecast
 
 data class City(
     val coord: Coord,

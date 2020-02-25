@@ -52,7 +52,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="@string/wind_flow"
-                    android:textSize="40sp" />
+                    android:textSize="30sp" />
 
                 <TextView
                     android:id="@+id/windFlow"
@@ -60,7 +60,7 @@
                     android:layout_height="0dp"
                     android:gravity="center"
                     android:layout_weight="1"
-                    android:textSize="40sp" />
+                    android:textSize="30sp" />
             </LinearLayout>
 
             <LinearLayout
@@ -76,7 +76,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="@string/humidity"
-                    android:textSize="40sp" />
+                    android:textSize="30sp" />
 
                 <TextView
                     android:id="@+id/humidity"
@@ -84,7 +84,7 @@
                     android:layout_height="0dp"
                     android:gravity="center"
                     android:layout_weight="1"
-                    android:textSize="40sp" />
+                    android:textSize="30sp" />
             </LinearLayout>
 
         </LinearLayout>
@@ -99,23 +99,27 @@
             <TextView
                 android:id="@+id/day1"
                 android:layout_width="0dp"
+                android:gravity="center"
                 android:layout_height="match_parent"
                 android:layout_weight="1"></TextView>
 
             <TextView
                 android:layout_width="0dp"
                 android:id="@+id/day2"
+                android:gravity="center"
                 android:layout_height="match_parent"
                 android:layout_weight="1"></TextView>
 
             <TextView
                 android:id="@+id/day3"
+                android:gravity="center"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"></TextView>
 
             <TextView
                 android:id="@+id/day4"
+                android:gravity="center"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"></TextView>
